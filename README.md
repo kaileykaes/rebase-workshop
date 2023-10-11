@@ -23,7 +23,7 @@ RECOMMENDED MODULES
 - Eget nunc 
 - Scelerisque viverra mauris 
 - Vulputate enim 
-- Nulla aliquet 
+- This is a recommended module
 - Porttitor lacus
 
 INSTALLATION
